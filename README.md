@@ -1,4 +1,4 @@
-# ❔ Modals with Vanilla JS ❔
+# 🙌 Modals with Vanilla JS 🙌
 
 ## Small component simulating a modal developed in Vanilla JS 😁
 
